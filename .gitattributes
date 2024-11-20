@@ -1,1 +1,2 @@
 semantic-segmentation-pytorch/ckpt/ade20k-resnet50dilated-ppm_deepsup/decoder_epoch_20.pth filter=lfs diff=lfs merge=lfs -text
+semantic-segmentation-pytorch/ckpt/ade20k-resnet50dilated-ppm_deepsup/encoder_epoch_20.pth filter=lfs diff=lfs merge=lfs -text
